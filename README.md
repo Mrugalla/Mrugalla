@@ -4,9 +4,7 @@ I've been an electronic musician for most of my life and I who dove into audio p
 by manipulating the scripts that came with Blue Cat Audio's Plug'n Script. My first success was
 to change a mid/side script that removes the side content, to only remove the mid content instead.
 That was simple, yet something none of my other plugins did back then, so it inspired me to
-become a plugin developer.
-
-In the beginning I experimented mostly with waveshapers and bitcrushers, as those are easy to
+become a plugin developer. In the beginning I experimented mostly with waveshapers and bitcrushers, as those are easy to
 implement while already having a big impact on the sound. I also wrote some granular effects,
 envelopes and oscillators.
 
