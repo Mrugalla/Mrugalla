@@ -40,7 +40,7 @@ This is my email address:
 beatsbasteln@web.de
 
 You can also talk to me on discord:
-https://discord.gg/m4MtvdAe8E
+[https://discord.gg/m4MtvdAe8E](https://discord.gg/FtNs7ePZJ9)
 
 <!---
 Mrugalla/Mrugalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
